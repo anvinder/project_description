@@ -1,0 +1,3 @@
+pylint code: py -m pylint file.py --max-line-length=120
+streamlit code: python -m streamlit run .\streamlit_example.py
+generate requirements file: python -m pipreqs.pipreqs c:\users\anvin\pycharmProjects\generic
