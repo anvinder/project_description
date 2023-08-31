@@ -1,0 +1,21 @@
+Runing systemd service at startup:
+Running crontab on startup will NOT launch openCV imshow or gui related applications. 
+
+- Create a service using this link : https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
+https://linuxhandbook.com/create-systemd-services/
+service is located at : /etc/systemd/system/rot13.service
+
+
+
+systemctl commands: 
+systemctl status {service-name} (run_automation.service)
+sudo systemctl is-enabled nginx.service
+sudo systemctl start nginx.service
+sudo systemctl enable nginx.service
+systemctl stop abc.service
+
+
+systemd-analyze
+systemd-analyze blame 
+systemd-analyze critical-chain 
+systemd-analyze plot > boot_analysis.svg	->	xviewer boot_analysis.svg 
