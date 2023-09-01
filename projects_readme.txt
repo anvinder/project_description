@@ -57,3 +57,13 @@ It looks at the product pricing on all websites along with its reviews and shows
 8 Linkedin Job Search: 
 This tool looks for jobs based ont eh search criterion entered by the user. 
 it downloads a list of jobs that meet the requirements along with the job link, details, salary, benefits etc and shows it to the user. 
+
+
+
+9 QR Code generator: 
+- To keep all the purchase records in oder. Most of the times we lose the receipt after some time. 
+- This code, it creates a QR code for purcahse receipt that can be places on the product itself. Scanning the QR code shows the date and price of purchase along with the link to the receipt. No more worries of losing the receipt or doubts on proof of purchase as asked by the customs. 
+
+10 Real Time Video Stitching/ Bird's eye view:
+It takes multiple feeds (from 3 cameras), stitches them together to show a 360 view of the place. 
+
