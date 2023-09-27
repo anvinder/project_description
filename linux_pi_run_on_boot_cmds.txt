@@ -19,3 +19,5 @@ systemd-analyze
 systemd-analyze blame 
 systemd-analyze critical-chain 
 systemd-analyze plot > boot_analysis.svg	->	xviewer boot_analysis.svg 
+
+when vnc screen size is diff: xrandr --output HDMI-1 --rate 60 --mode 640x480 --fb 1920x1080 --panning 1920x1080
