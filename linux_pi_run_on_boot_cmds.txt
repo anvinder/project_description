@@ -2,7 +2,6 @@ Runing systemd service at startup:
 Running crontab on startup will NOT launch openCV imshow or gui related applications. 
 
 - Create a service using this link : https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6
-https://linuxhandbook.com/create-systemd-services/
 service is located at : /etc/systemd/system/rot13.service
 config.txt that says bluetooth enabled, other params is stored in: /boot/config.txt
 
