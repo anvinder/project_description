@@ -67,18 +67,4 @@ it downloads a list of jobs that meet the requirements along with the job link, 
 10 Real Time Video Stitching/ Bird's eye view:
 It takes multiple feeds (from 3 cameras), stitches them together to show a 360 view of the place. 
 
-11 Small Projects: 
-- Image to text converter
-- Remove Duplicate files form system to save memory
-- Merge video together. 
-- Split files 
-- Trim Song 
-- Check if router is ON 
-- Check if NETWORK is UP
-- Download youtube content 
-- Sync 2 folders based on hash value (add files to one, remove from another etc) 
-- Grep files based on the name or content 
-- Scan network for available wifi/ devices ona  network 
-- Reduce Image size 
-- Rename files based on a given nomenclature 
-- send message (sms) via email 
+Multiple Other Projects that not just help with household but define the nature of user interaction with IoT. 
